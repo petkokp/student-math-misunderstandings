@@ -6,6 +6,8 @@ features = Features({
     "QuestionText": Value("string"),
     "MC_Answer": Value("string"),
     "StudentExplanation": Value("string"),
+    "Category": Value("string"),
+    "Misconception": Value("string"),
 })
 
 ds = load_dataset(

@@ -1,2 +1,3 @@
 *.csv
 env
+*eda_results
